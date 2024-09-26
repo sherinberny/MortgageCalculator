@@ -24,7 +24,7 @@ This is a simple Mortgage Calculator app developed for Android using Kotlin and 
 1. Open your terminal.
 2. Run the following commands:
     ```bash
-    git clone https://github.com/sherinberny/mortgage-calculator.git
+    git clone https://github.com/sherinberny/MortgageCalculator.git
     cd mortgage-calculator
     ```
 
