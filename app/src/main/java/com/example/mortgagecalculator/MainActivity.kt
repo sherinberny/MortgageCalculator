@@ -63,7 +63,7 @@ fun MortgageCalculatorScreen() {
         )
 
         Text(
-            text = "Student ID: 300364313",
+            text = "Student ID:- 300364313",
             style = MaterialTheme.typography.headlineSmall,
             modifier = Modifier.padding(bottom = 12.dp)
         )
