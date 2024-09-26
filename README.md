@@ -1,7 +1,7 @@
 # Sherin's Mortgage Calculator App
 
 ## Introduction
-This is a simple Mortgage Calculator app developed for Android using Kotlin and Jetpack Compose for the Mobile Application Development 2 Course as a Lab 2 assignment by Sherin. It allows users to calculate their monthly mortgage payments based on the loan amount, term in years, and annual interest rate.
+This is a simple Mortgage Calculator app developed for Android using Kotlin and Jetpack Compose for the Mobile Application Development 2 Course as a Lab 2 assignment by Sherin Babu. It allows users to calculate their monthly mortgage payments based on the loan amount, term in years, and annual interest rate.
 
 ## Features
 - **User-friendly interface** for inputting loan details.
